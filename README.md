@@ -1,4 +1,4 @@
-# Hi, tell me Pablito, all people doing :) 
+# Hello, tell me Pablito, everyone does it :) 
 
 A brief description of what this project does and who it's for
 
